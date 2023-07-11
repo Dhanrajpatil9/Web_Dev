@@ -1,0 +1,148 @@
+/* .navbar-nav.ml-auto {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-nav.ml-auto > li {
+    margin-right: 10px; /* Adjust the value as per your needs */
+  
+ */
+.tab {
+                     display: inline-block;
+                     margin-left: 40px;
+              }
+
+
+              body {
+                     font-family: Roboto;
+
+              }
+
+              #review {
+                     width: auto;
+                     height: 500px;
+              }
+
+              @font-face {
+                     font-family: Roboto;
+                     src: url("chrome-extension://mcgbeeipkmelnpldkobichboakdfaeon/css/Roboto-Regular.ttf");
+              }
+
+
+              h1 {
+                     color: #a7d129;
+                     font-family: monospace;
+              }
+
+              h3 {
+                     font-weight: 900;
+              }
+
+              .navbar {
+                     padding: 0 0 4.5rem;
+              }
+
+
+
+              .nav-link {
+                     font-size: 1.2rem;
+              }
+
+              .dn-button {
+                     margin: 5% 6% 8% 0%;
+              }
+
+              .feature-box {
+                     padding: 5% 5%;
+                     margin: 40px 0px;
+                     text-align: center;
+              }
+
+              header {
+                     padding: 0 20px;
+              }
+
+              .secimg {
+                     margin: 0% 0% 10% 0%;
+              }
+
+              #ML1 {
+                     margin: 0% 0% 5% 0%;
+              }
+
+              .feature-text {
+                     padding: 0% 0% 3% 0%;
+
+              }
+
+              .carousel-item {
+                     text-align: center;
+                     padding: 8% 13% 3% 13%;
+                     color: #6C871D;
+                     font-size: 25px;
+              }
+
+              #bigheading {
+                     text-align: center;
+                     font-size: 450%;
+                     font-weight: 1000;
+                     font-family: League Spartan;
+
+              }
+
+              #download {
+                     margin: 8% 10% 8% 10%;
+              }
+
+              #features {
+                     margin: 3%;
+              }
+
+              .btn1 {
+                     margin: 0% 10% 0% 35%;
+                     font-family: monospace;
+              }
+
+              .bgcol {
+                     background-color: #232855;
+              }
+
+              #h4 {
+                     padding: 2% 15% 0% 15%;
+                     color: #DEFA8B;
+                     font-family: monospace;
+              }
+
+              .about-txt {
+                     padding: 1% 15% 0% 20%;
+                     font-size: 23px;
+                     color: #6C871D;
+                     text-align: justify;
+                     font-family: monospace;
+              }
+
+              .list-item {
+                     margin: 0px 15px
+              }
+
+              footer {
+                     text-align: center;
+                     padding: 0px 0px 10px 0px;
+                     color: #A7CF2A;
+                     font-family: monospace;
+                     font-weight: 1000;
+              }
+
+              .navbar-nav>li {
+                     padding-left: 30px;
+                     padding-right: 30px;
+              }
+
+              hr {
+
+                     background-color: white;
+              }
+              html{
+                scroll-behavior: smooth;
+              }
